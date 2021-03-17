@@ -1,0 +1,16 @@
+# Clarizza Morales Chacon
+# ECE 330 - Software Design
+# Homework #3 Output - Heart Calculator
+
+
+(base) clarizza@MacBook-Pro ECE-330-SoftwareDesing-HW3 % ./run_heartCalc 
+Please enter your name and date of birth as follows(name lastname mm dd yyyy): 
+Clarizza Morales 11 12 1999
+Your first name is: Clarizza
+Your last name is: Morales
+Your birthdate is: 11/12/1999
+Enter present date as (mm dd yyyy) : 
+03 16 2021
+Your age in years is: 21 years
+Your Maximum Heart Rate according to the American Heart Association is: 199
+You Target Heart Rate is: 099 -- 169
